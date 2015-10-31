@@ -37,6 +37,12 @@ Using [Composer](https://getcomposer.org), just add it to your `composer.json` b
 composer require mjaschen/phpgeo
 ```
 
+If you need a PHP 5.3 compatible version, please install version 0.3:
+
+```
+composer require mjaschen/phpgeo:~0.3.0
+```
+
 ## Changelog
 
 ### Version 0.4
@@ -45,7 +51,7 @@ composer require mjaschen/phpgeo
 
 ### Version 0.3
 
-- added Polyline class (thanks @paulvl)
+- added Polygon class (thanks @paulvl)
 
 ## Usage
 
